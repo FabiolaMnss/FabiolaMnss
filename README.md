@@ -1,16 +1,27 @@
-## Hi there 👋
+## Olá, sou Fabiola Malman 👋
 
-<!--
-**FabiolaMnss/FabiolaMnss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! Sou estudante de **Ciência da Computação** e apaixonada por programação. Estou sempre buscando aprender coisas novas e melhorar minhas habilidades em **desenvolvimento de software**.
 
-Here are some ideas to get you started:
+## 🌱 Atualmente, estou aprendendo:
+- **Desenvolvimento Web** (ASP.NET Core, Entity Framework)
+- **Estruturas de Dados** e **Algoritmos**
+- **Inteligência Artificial** e **Machine Learning**
+  
+## 📚 Projetos em andamento:
+- **Agenda de Contatos**: Uma aplicação de gerenciamento de contatos com persistência em banco de dados.
+  
+## 💻 Tecnologias que estou utilizando:
+- **C# / .NET Core**
+- **ASP.NET Core**
+- **Entity Framework**
+- **SQLite**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Me encontre em:
+- [LinkedIn](https://www.linkedin.com/in/fabiola-malman)
+  
+## 🎯 Meu sonho:
+Dar uma vida melhor para a minha mãe, realizar seus sonhos e viajar com ela para todos os lugares que sempre quisemos conhecer. Também quero ter uma vida tranquila e feliz com pessoas especiais ao meu lado.
+
+---
+
+Agradeço por visitar o meu perfil! Vamos aprender e crescer juntos! 🚀
