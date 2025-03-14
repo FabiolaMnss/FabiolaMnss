@@ -1,6 +1,6 @@
 ## Olá, sou Fabiola Malman 👋
 
-Bem-vindo ao meu perfil! Sou estudante de **Ciência da Computação** e apaixonada por programação. Estou sempre buscando aprender coisas novas e melhorar minhas habilidades em **desenvolvimento de software**.
+Bem-vindo ao meu perfil! Sou estudante de **Ciência da Computação**. Estou buscando aprender coisas novas e aprofundar meus conhecimentos. 
 
 ## 🌱 Atualmente, estou aprendendo:
 - **Desenvolvimento Web** (ASP.NET Core, Entity Framework)
@@ -18,7 +18,8 @@ Bem-vindo ao meu perfil! Sou estudante de **Ciência da Computação** e apaixon
 
 ## 🔗 Me encontre em:
 - [LinkedIn](https://www.linkedin.com/in/fabiola-malman)
-  
+- [Instagram](https://www.instagram.com/fabiolamalman/)
+
 ## 🎯 Meu sonho:
 Dar uma vida melhor para a minha mãe, realizar seus sonhos e viajar com ela para todos os lugares que sempre quisemos conhecer. Também quero ter uma vida tranquila e feliz com pessoas especiais ao meu lado.
 
