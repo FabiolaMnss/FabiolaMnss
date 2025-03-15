@@ -17,7 +17,7 @@ Bem-vindo ao meu perfil! Sou estudante de **Ciência da Computação**. Estou bu
 - **SQLite**
 
 ## 🔗 Me encontre em:
-- [LinkedIn](https://www.linkedin.com/in/fabiola-malman)
+- [LinkedIn](https://www.linkedin.com/in/fabiola-malman-4b2877355/)
 - [Instagram](https://www.instagram.com/fabiolamalman/)
 
 ## 🎯 Meu sonho:
